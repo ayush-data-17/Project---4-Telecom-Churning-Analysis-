@@ -14,6 +14,29 @@ The main goal of this project is to:
 * Support better retention strategies for telecom companies
 
 ---
+## 📊 Dashboards and Features 
+**1. Customer Churning Analysis Dashboard**
+
+<img width="1367" height="735" alt="Screenshot 2025-12-03 102208" src="https://github.com/user-attachments/assets/99040911-e92a-4d41-b380-3af17dc4b28f" />
+
+
+
+
+**Features:**
+
+**KPI'S:**
+- Total Churned Customers: 1869
+- Total Monthly Charges : 139k
+- Total Yearly Charges : 2.86M
+- Senior Churning Rate %: 25%
+- Multiple Line Churning Rate : 45%
+
+
+**Charts And Visualizatiion:**
+- Pie Chart: Females are churning more than the males(51% are females) . 
+- Bar Charts: Customers having tenure of 1 year are churning more  . 
+- Bar Chart: Internet Service of fiber optics are churning more .
+- Doughnut Chart: Payment with paperless billing are churning more . 
 
 ## 📌 Key Insights (Churn Drivers)
 
@@ -89,7 +112,6 @@ Strengthen and make tech support more accessible and proactive.
 * Pandas, NumPy
 * Matplotlib, Seaborn
 * Jupyter Notebook
-* Machine Learning (for churn modeling)
 * Git & GitHub
 
 ---
@@ -97,7 +119,7 @@ Strengthen and make tech support more accessible and proactive.
 ## 📈 Future Enhancements
 
 * Add churn prediction model with higher accuracy
-* Build dashboard using Power BI / Tableau
+* Build dashboard using Power BI 
 * Perform deep demographic analysis
 * Implement real-time churn monitoring
 
@@ -107,9 +129,9 @@ Strengthen and make tech support more accessible and proactive.
 
 If you have any suggestions or would like to collaborate on this project, feel free to reach out:
 
-**Name:** [Your Name]
-**Email:** [Your Email]
-**LinkedIn:** [Optional]
+**Name:** Ayush Lohat
+**Email:** ayush2007018@gmail.com
+**LinkedIn:** ayush-lohat-46318
 
 ---
 
