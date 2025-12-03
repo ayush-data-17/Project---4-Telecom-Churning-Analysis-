@@ -130,7 +130,9 @@ Strengthen and make tech support more accessible and proactive.
 If you have any suggestions or would like to collaborate on this project, feel free to reach out:
 
 **Name:** Ayush Lohat
+
 **Email:** ayush2007018@gmail.com
+
 **LinkedIn:** ayush-lohat-46318
 
 ---
